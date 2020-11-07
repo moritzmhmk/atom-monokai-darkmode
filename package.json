@@ -1,13 +1,13 @@
 {
-  "name": "atom-monokai-light",
+  "name": "monokai-darkmode",
   "theme": "syntax",
-  "version": "0.4.1",
-  "description": "A few changes to kevinsawicki's monokai theme for Atom",
+  "version": "0.0.0",
+  "description": "A Theme for working in dark environments.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/babsveloso/atom-monokai-light",
+  "repository": "https://github.com/moritzmhmk/atom-monokai-darkmode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

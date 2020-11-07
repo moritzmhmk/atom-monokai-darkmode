@@ -1,12 +1,4 @@
-# atom-monokai-light theme
+# monokai-darkmode theme for Atom
+This is a fork of [babsveloso](https://github.com/babsveloso/atom-monokai-light)'s mod of the original Monokai port by [kevinsawicki](https://github.com/kevinsawicki/monokai).
 
-A few changes to kevinsawicki's Monokai theme for Atom to improve contrast and readability.
-
-Changes include:
-* "white" text a bit darker for better contrast
-* tags begin and end with the tag name color
-* quotes on strings use the quote color
-* text selection color is darker than the bg color
-* gutter selected color is the background color for UI simplicity
-* less "bold" to improve readability
-* and other small stuff
+This theme was created to accompany the `monokai-lightmode` theme.
